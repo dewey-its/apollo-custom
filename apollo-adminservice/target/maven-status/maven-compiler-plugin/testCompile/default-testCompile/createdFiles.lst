@@ -1,0 +1,14 @@
+com\ctrip\framework\apollo\adminservice\controller\InstanceConfigControllerTest.class
+com\ctrip\framework\apollo\adminservice\controller\AppControllerTest.class
+com\ctrip\framework\apollo\adminservice\aop\NamespaceUnlockAspectTest.class
+com\ctrip\framework\apollo\adminservice\controller\ItemSetControllerTest.class
+com\ctrip\framework\apollo\adminservice\controller\TestWebSecurityConfig.class
+com\ctrip\framework\apollo\adminservice\AllTests.class
+com\ctrip\framework\apollo\adminservice\controller\ControllerExceptionTest.class
+com\ctrip\framework\apollo\adminservice\controller\ReleaseControllerTest.class
+com\ctrip\framework\apollo\AdminServiceTestConfiguration.class
+com\ctrip\framework\apollo\adminservice\controller\ControllerIntegrationExceptionTest.class
+com\ctrip\framework\apollo\adminservice\aop\NamespaceLockTest.class
+com\ctrip\framework\apollo\adminservice\controller\AppNamespaceControllerTest.class
+com\ctrip\framework\apollo\LocalAdminServiceApplication.class
+com\ctrip\framework\apollo\adminservice\controller\AbstractControllerTest.class

@@ -1,0 +1,17 @@
+com\ctrip\framework\apollo\foundation\internals\ServiceBootstrapTest$Interface5.class
+com\ctrip\framework\apollo\foundation\internals\ServiceBootstrapTest$Interface3.class
+com\ctrip\framework\apollo\tracer\internals\NullMessageProducerTest.class
+com\ctrip\framework\apollo\AllTests.class
+com\ctrip\framework\apollo\foundation\internals\provider\DefaultServerProviderTest.class
+com\ctrip\framework\apollo\core\MetaDomainTest.class
+com\ctrip\framework\apollo\tracer\internals\NullMessageProducerManagerTest.class
+com\ctrip\framework\apollo\foundation\internals\provider\DefaultApplicationProviderTest.class
+com\ctrip\framework\apollo\foundation\internals\ServiceBootstrapTest$Interface4.class
+com\ctrip\framework\apollo\foundation\internals\ServiceBootstrapTest$Interface1Impl.class
+com\ctrip\framework\apollo\tracer\TracerTest.class
+com\ctrip\framework\apollo\foundation\internals\ServiceBootstrapTest$Interface2.class
+com\ctrip\framework\apollo\tracer\internals\MockMessageProducerManager.class
+com\ctrip\framework\apollo\foundation\FoundationTest.class
+com\ctrip\framework\apollo\foundation\internals\ServiceBootstrapTest$Interface1.class
+com\ctrip\framework\apollo\tracer\internals\DefaultMessageProducerManagerTest.class
+com\ctrip\framework\apollo\foundation\internals\ServiceBootstrapTest.class
